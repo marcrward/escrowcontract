@@ -1,5 +1,5 @@
 # Overview
-BlockS1.io-King Dollar Escrow Smart Contract
+Escrow Smart Contract
 
 # Setup
 Make sure Docker and Node.js are installed
