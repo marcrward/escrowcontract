@@ -1,0 +1,16 @@
+{
+  "name": "king-dollar-eos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests defined\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^16.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
