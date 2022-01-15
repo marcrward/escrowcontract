@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "eosjs": "^16.0.0",
-    "shelljs": "^0.8.2"
+    "shelljs": "^0.8.5"
   }
 }
